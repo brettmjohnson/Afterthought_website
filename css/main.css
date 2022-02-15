@@ -134,7 +134,7 @@ h2 {
 }
 
 .screenshot {
-  filter: drop-shadow( 0 32px 96px rgba(0,0,0,.5) );
+  filter: drop-shadow( 0 16px 96px rgba(0,0,0,.5) );
   position: relative;
   z-index: -1;
 }
